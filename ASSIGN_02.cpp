@@ -1,4 +1,4 @@
-/*Modify the program of exercise 1 to include constructors for all three classes.*/
+/*Modify the program of assignment 1 to include constructors for all three classes.*/
 ____________________________________________________________________________________________________
 #include <iostream> 
 using namespace std; 
